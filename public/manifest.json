@@ -1,0 +1,14 @@
+{
+  "manifest_version":3,
+  "name": "GEMINI",
+  "description": "Ask me anything",
+  "version": "1.0.0",
+  "action":{
+    "default_popup":"index.html",
+    "default_icon": "i.png",
+    "default_title": "open"
+  },
+  "permissions": [
+    "scripting"
+  ]
+}
